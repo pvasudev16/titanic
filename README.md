@@ -8,6 +8,9 @@ This notebook is organized as follows:
     - Port of Embarkment
     - Cabin
 - Further Data Analysis
-
+    - Useful Functions
+    - Age
+    - Passenger Class
+    - Siblings and Spouses
 ## Useful Links
 [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/explorer/) has information about the passengers, which is useful for data imputation, as well as just interesting for Titanic information.

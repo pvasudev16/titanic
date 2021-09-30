@@ -1,17 +1,17 @@
 # Titanic Machine Learning
-All aboard the Titanic... will you be one of the lucky ones that survives? In this machine learning exercise, I intend to find out. I'm using the standard [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic) to practice using a classifier.
+I use the standard [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic) to practice using a classifier.
 
-This notebook is organized as follows:
-- Preliminary Data Analysis
-- Further Data Cleaning
-    - Age
-    - Port of Embarkment
-    - Cabin
-- Further Data Analysis
-    - Useful Functions
-    - Age
-    - Passenger Class
-    - Siblings and Spouses
-    - Sex
-## Useful Links
+# Repository Components
+[`titanic.ipynb`](https://github.com/pvasudev16/titanic/blob/main/titanic.ipynb)  explores and analyzes the data, and applies machine learning algorithms.
+
+# Visualizations
+For every variable in the data set, there are visualizations. For the Age feature:
+![Distribution of Passengers's Age](https://github.com/pvasudev16/titanic/blob/main/passenger_age_histogram.png)
+
+# Machine Learning
+In the [notebook](https://github.com/pvasudev16/titanic/blob/main/titanic.ipynb), I use a Random Forest Classifier and a K-Nearest Neighbours Classifier, adjusting which features I use. My best model
+scores 78.95% accuracy on the test data set.
+
+# Useful Links
 [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/explorer/) has information about the passengers, which is useful for data imputation, as well as just interesting for Titanic information.
+[Jonkheer](https://en.wikipedia.org/wiki/Jonkheer) is a title for the nobility, which I learned in this project.

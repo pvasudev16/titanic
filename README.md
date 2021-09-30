@@ -6,10 +6,9 @@ I use the standard [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic) to
 
 # Visualizations
 For every variable in the data set, there are visualizations. For the Age feature:
-<p align="center">
-   ![Distribution of Passengers's Age](https://github.com/pvasudev16/titanic/blob/main/passenger_age_histogram.png)
-   ![Distribution of Passengers's Age Based on Survival](https://github.com/pvasudev16/titanic/blob/main/passenger_age_survived_did_not_survive.png)
-</p>
+![Distribution of Passengers's Age](https://github.com/pvasudev16/titanic/blob/main/passenger_age_histogram.png)
+![Distribution of Passengers's Age Based on Survival](https://github.com/pvasudev16/titanic/blob/main/passenger_age_survived_did_not_survive.png)
+
 # Machine Learning
 In the [notebook](https://github.com/pvasudev16/titanic/blob/main/titanic.ipynb), I use a Random Forest Classifier and a K-Nearest Neighbours Classifier, adjusting which features I use. My best model
 scores 78.95% accuracy on the test data set.
